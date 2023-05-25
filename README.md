@@ -1,1 +1,6 @@
-![6.JPG](..%2F..%2FPictures%2FJEE%20bank%2F6.JPG)![5.JPG](..%2F..%2FPictures%2FJEE%20bank%2F5.JPG)![4.JPG](..%2F..%2FPictures%2FJEE%20bank%2F4.JPG)![3.JPG](..%2F..%2FPictures%2FJEE%20bank%2F3.JPG)![2.JPG](..%2F..%2FPictures%2FJEE%20bank%2F2.JPG)![1.JPG](..%2F..%2FPictures%2FJEE%20bank%2F1.JPG)
+![6.JPG](..%2F..%2FPictures%2FJEE%20bank%2F6.JPG)
+![5.JPG](..%2F..%2FPictures%2FJEE%20bank%2F5.JPG)
+![4.JPG](..%2F..%2FPictures%2FJEE%20bank%2F4.JPG)
+![3.JPG](..%2F..%2FPictures%2FJEE%20bank%2F3.JPG)
+![2.JPG](..%2F..%2FPictures%2FJEE%20bank%2F2.JPG)
+![1.JPG](..%2F..%2FPictures%2FJEE%20bank%2F1.JPG)
